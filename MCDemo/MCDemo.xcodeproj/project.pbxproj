@@ -15,6 +15,7 @@
 		0C88321A209779D60052AE59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C883219209779D60052AE59 /* main.m */; };
 		0C883224209779D70052AE59 /* MCDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C883223209779D70052AE59 /* MCDemoTests.m */; };
 		0C88322F209779D70052AE59 /* MCDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C88322E209779D70052AE59 /* MCDemoUITests.m */; };
+		AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF3EE0D420977B9500A23B97 /* testmodel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		0C88322A209779D70052AE59 /* MCDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C88322E209779D70052AE59 /* MCDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCDemoUITests.m; sourceTree = "<group>"; };
 		0C883230209779D70052AE59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF3EE0D320977B9500A23B97 /* testmodel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testmodel.h; sourceTree = "<group>"; };
+		AF3EE0D420977B9500A23B97 /* testmodel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testmodel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				0C883215209779D60052AE59 /* LaunchScreen.storyboard */,
 				0C883218209779D60052AE59 /* Info.plist */,
 				0C883219209779D60052AE59 /* main.m */,
+				AF3EE0D320977B9500A23B97 /* testmodel.h */,
+				AF3EE0D420977B9500A23B97 /* testmodel.m */,
 			);
 			path = MCDemo;
 			sourceTree = "<group>";
@@ -268,6 +273,7 @@
 				0C88320F209779D60052AE59 /* ViewController.m in Sources */,
 				0C88321A209779D60052AE59 /* main.m in Sources */,
 				0C88320C209779D60052AE59 /* AppDelegate.m in Sources */,
+				AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

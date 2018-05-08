@@ -16,6 +16,7 @@
 		0C88321A209779D60052AE59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C883219209779D60052AE59 /* main.m */; };
 		0C883224209779D70052AE59 /* MCDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C883223209779D70052AE59 /* MCDemoTests.m */; };
 		0C88322F209779D70052AE59 /* MCDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C88322E209779D70052AE59 /* MCDemoUITests.m */; };
+		0CB8CD0E20A209EC00EA2D18 /* CarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CB8CD0D20A209EC00EA2D18 /* CarView.m */; };
 		0CD4E703209782A1008FA924 /* UserView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CD4E702209782A1008FA924 /* UserView.m */; };
 		AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF3EE0D420977B9500A23B97 /* testmodel.m */; };
 		AF781FB420A1FF330014457D /* HttpsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF781FB320A1FF330014457D /* HttpsModel.m */; };
@@ -57,6 +58,8 @@
 		0C88322A209779D70052AE59 /* MCDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C88322E209779D70052AE59 /* MCDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCDemoUITests.m; sourceTree = "<group>"; };
 		0C883230209779D70052AE59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CB8CD0C20A209EC00EA2D18 /* CarView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarView.h; sourceTree = "<group>"; };
+		0CB8CD0D20A209EC00EA2D18 /* CarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarView.m; sourceTree = "<group>"; };
 		0CD4E701209782A1008FA924 /* UserView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserView.h; sourceTree = "<group>"; };
 		0CD4E702209782A1008FA924 /* UserView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserView.m; sourceTree = "<group>"; };
 		AF3EE0D320977B9500A23B97 /* testmodel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testmodel.h; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				0C6F472820A1FC680064A969 /* ADHotView.h */,
 				0C6F472920A1FC680064A969 /* ADHotView.m */,
 				0CD4E701209782A1008FA924 /* UserView.h */,
+				0CB8CD0C20A209EC00EA2D18 /* CarView.h */,
+				0CB8CD0D20A209EC00EA2D18 /* CarView.m */,
 				0CD4E702209782A1008FA924 /* UserView.m */,
 				AF781FB220A1FF330014457D /* HttpsModel.h */,
 				AF781FB320A1FF330014457D /* HttpsModel.m */,
@@ -290,6 +295,7 @@
 				0C88320C209779D60052AE59 /* AppDelegate.m in Sources */,
 				0C6F472A20A1FC680064A969 /* ADHotView.m in Sources */,
 				0CD4E703209782A1008FA924 /* UserView.m in Sources */,
+				0CB8CD0E20A209EC00EA2D18 /* CarView.m in Sources */,
 				AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */,
 				AF781FB420A1FF330014457D /* HttpsModel.m in Sources */,
 			);

@@ -19,6 +19,7 @@
 		0CD4E703209782A1008FA924 /* UserView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CD4E702209782A1008FA924 /* UserView.m */; };
 		AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF3EE0D420977B9500A23B97 /* testmodel.m */; };
 		AF781FB420A1FF330014457D /* HttpsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF781FB320A1FF330014457D /* HttpsModel.m */; };
+		AF781FBA20A2098D0014457D /* CarVew.m in Sources */ = {isa = PBXBuildFile; fileRef = AF781FB920A2098D0014457D /* CarVew.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		AF3EE0D420977B9500A23B97 /* testmodel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testmodel.m; sourceTree = "<group>"; };
 		AF781FB220A1FF330014457D /* HttpsModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HttpsModel.h; sourceTree = "<group>"; };
 		AF781FB320A1FF330014457D /* HttpsModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HttpsModel.m; sourceTree = "<group>"; };
+		AF781FB820A2098D0014457D /* CarVew.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarVew.h; sourceTree = "<group>"; };
+		AF781FB920A2098D0014457D /* CarVew.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarVew.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				0C88320E209779D60052AE59 /* ViewController.m */,
 				0C6F472820A1FC680064A969 /* ADHotView.h */,
 				0C6F472920A1FC680064A969 /* ADHotView.m */,
+				AF781FB820A2098D0014457D /* CarVew.h */,
+				AF781FB920A2098D0014457D /* CarVew.m */,
 				0CD4E701209782A1008FA924 /* UserView.h */,
 				0CD4E702209782A1008FA924 /* UserView.m */,
 				AF781FB220A1FF330014457D /* HttpsModel.h */,
@@ -288,6 +293,7 @@
 				0C88320F209779D60052AE59 /* ViewController.m in Sources */,
 				0C88321A209779D60052AE59 /* main.m in Sources */,
 				0C88320C209779D60052AE59 /* AppDelegate.m in Sources */,
+				AF781FBA20A2098D0014457D /* CarVew.m in Sources */,
 				0C6F472A20A1FC680064A969 /* ADHotView.m in Sources */,
 				0CD4E703209782A1008FA924 /* UserView.m in Sources */,
 				AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */,

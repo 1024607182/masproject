@@ -19,10 +19,14 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     UIAlertController *alert = [[UIAlertController alloc] init];
-    UIButton *btton = [UIButton buttonWithType:UIButtonTypeCustom];
-    [self.view addSubview:btton];
+    
     UIView *test = [[UIView alloc] init];
     [self.view addSubview:test];
+    
+    
+    
+    UIButton *btton = [UIButton buttonWithType:UIButtonTypeCustom];
+    [self.view addSubview:btton];
     
 }
 

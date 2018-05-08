@@ -18,22 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    
-    
-    
-    UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
-//    UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
-//    UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
-//    UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
-    
-    /*
-     didReceiveMemoryWarning
-     didReceiveMemoryWarning
-     didReceiveMemoryWarning
-     didReceiveMemoryWarning
-     
-     
-     */
+    UIView *test = [[UIView alloc] init];
+    [self.view addSubview:test];
     
 }
 

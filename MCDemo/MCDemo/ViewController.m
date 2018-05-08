@@ -21,6 +21,8 @@
     UIAlertController *alert = [[UIAlertController alloc] init];
     UIButton *btton = [UIButton buttonWithType:UIButtonTypeCustom];
     [self.view addSubview:btton];
+    UIView *test = [[UIView alloc] init];
+    [self.view addSubview:test];
     
 }
 

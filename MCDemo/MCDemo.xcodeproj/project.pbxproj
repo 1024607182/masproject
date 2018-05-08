@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C6F472A20A1FC680064A969 /* ADHotView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6F472920A1FC680064A969 /* ADHotView.m */; };
 		0C88320C209779D60052AE59 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C88320B209779D60052AE59 /* AppDelegate.m */; };
 		0C88320F209779D60052AE59 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C88320E209779D60052AE59 /* ViewController.m */; };
 		0C883212209779D60052AE59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C883210209779D60052AE59 /* Main.storyboard */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C6F472820A1FC680064A969 /* ADHotView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ADHotView.h; sourceTree = "<group>"; };
+		0C6F472920A1FC680064A969 /* ADHotView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ADHotView.m; sourceTree = "<group>"; };
 		0C883207209779D60052AE59 /* MCDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C88320A209779D60052AE59 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0C88320B209779D60052AE59 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +114,8 @@
 				0C88320B209779D60052AE59 /* AppDelegate.m */,
 				0C88320D209779D60052AE59 /* ViewController.h */,
 				0C88320E209779D60052AE59 /* ViewController.m */,
+				0C6F472820A1FC680064A969 /* ADHotView.h */,
+				0C6F472920A1FC680064A969 /* ADHotView.m */,
 				0CD4E701209782A1008FA924 /* UserView.h */,
 				0CD4E702209782A1008FA924 /* UserView.m */,
 				0C883210209779D60052AE59 /* Main.storyboard */,
@@ -278,6 +283,7 @@
 				0C88320F209779D60052AE59 /* ViewController.m in Sources */,
 				0C88321A209779D60052AE59 /* main.m in Sources */,
 				0C88320C209779D60052AE59 /* AppDelegate.m in Sources */,
+				0C6F472A20A1FC680064A969 /* ADHotView.m in Sources */,
 				0CD4E703209782A1008FA924 /* UserView.m in Sources */,
 				AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */,
 			);

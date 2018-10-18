@@ -18,6 +18,7 @@
 		0C88322F209779D70052AE59 /* MCDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C88322E209779D70052AE59 /* MCDemoUITests.m */; };
 		0CB8CD0E20A209EC00EA2D18 /* CarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CB8CD0D20A209EC00EA2D18 /* CarView.m */; };
 		0CD4E703209782A1008FA924 /* UserView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CD4E702209782A1008FA924 /* UserView.m */; };
+		0CD883822178DF5200EF7966 /* agg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CD883812178DF5200EF7966 /* agg.png */; };
 		AF3EE0D520977B9500A23B97 /* testmodel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF3EE0D420977B9500A23B97 /* testmodel.m */; };
 		AF781FB420A1FF330014457D /* HttpsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AF781FB320A1FF330014457D /* HttpsModel.m */; };
 		AF781FBA20A2098D0014457D /* CarVew.m in Sources */ = {isa = PBXBuildFile; fileRef = AF781FB920A2098D0014457D /* CarVew.m */; };
@@ -63,6 +64,7 @@
 		0CB8CD0D20A209EC00EA2D18 /* CarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarView.m; sourceTree = "<group>"; };
 		0CD4E701209782A1008FA924 /* UserView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserView.h; sourceTree = "<group>"; };
 		0CD4E702209782A1008FA924 /* UserView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserView.m; sourceTree = "<group>"; };
+		0CD883812178DF5200EF7966 /* agg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = agg.png; sourceTree = "<group>"; };
 		AF3EE0D320977B9500A23B97 /* testmodel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testmodel.h; sourceTree = "<group>"; };
 		AF3EE0D420977B9500A23B97 /* testmodel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testmodel.m; sourceTree = "<group>"; };
 		AF781FB220A1FF330014457D /* HttpsModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HttpsModel.h; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				0C88320B209779D60052AE59 /* AppDelegate.m */,
 				0C88320D209779D60052AE59 /* ViewController.h */,
 				0C88320E209779D60052AE59 /* ViewController.m */,
+				0CD883812178DF5200EF7966 /* agg.png */,
 				0C6F472820A1FC680064A969 /* ADHotView.h */,
 				0C6F472920A1FC680064A969 /* ADHotView.m */,
 				AF781FB820A2098D0014457D /* CarVew.h */,
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C883217209779D60052AE59 /* LaunchScreen.storyboard in Resources */,
+				0CD883822178DF5200EF7966 /* agg.png in Resources */,
 				0C883214209779D60052AE59 /* Assets.xcassets in Resources */,
 				0C883212209779D60052AE59 /* Main.storyboard in Resources */,
 			);

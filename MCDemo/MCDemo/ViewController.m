@@ -33,8 +33,11 @@
     
     
     
-    UIButton *btton = [UIButton buttonWithType:UIButtonTypeCustom];
-    [self.view addSubview:btton];
+//    UIButton *btton = [UIButton buttonWithType:UIButtonTypeCustom];
+//    [self.view addSubview:btton];
+ 
+    
+    
     
 }
 
